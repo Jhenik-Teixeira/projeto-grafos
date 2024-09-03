@@ -27,4 +27,4 @@ Este projeto envolve a implementação de algoritmos de grafos, incluindo opera�
 - [Vídeo explicativo do Projeto](https://drive.google.com/file/d/1TD8WMHGPOiKv8U0l7yI9ShMUOUg5tIas/view?usp=sharing) - Para mais informações sobre funcionalidades principais, e demonstrações de uso.
 - [Documentação do JFreeChart](https://www.jfree.org/jfreechart/) - Para mais informações sobre como utilizar a biblioteca de gráficos.
 - [Documentação do Maven](https://maven.apache.org/) - Guia completo de como gerenciar projetos Java com Maven.
-- [Repositório no GitHub](https://github.com/Jhenik-Teixeira/projeto-grafos) - Link direto para o repositório do projeto.
+
